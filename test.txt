@@ -3,4 +3,5 @@
 3 진돌 입장
 4 jindol1이 추가
 5 jindolmain2에서 추가
+6 변경
 
